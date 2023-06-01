@@ -2286,7 +2286,8 @@ figure.highlight pre .javascript .function {
   background: var(--recent-post-bgcolor);
   backdrop-filter: blur(6px);
   overflow: hidden;
-  border-radius: 15px;
+/* border-radius 15px */
+  border-radius: 32px;
 }
 .recent-posts .recent-post-item .recent-post-content {
   display: -webkit-box;
@@ -2727,7 +2728,8 @@ figure.highlight pre .javascript .function {
     flex-wrap: wrap;
   }
   .recent-posts .recent-post-item {
-    border-radius: 15px;
+/* border-radius 15px */
+    border-radius: 32px;
     overflow: hidden;
     width: 47%;
     margin: 0px 3% 20px 0px;
@@ -2741,7 +2743,8 @@ figure.highlight pre .javascript .function {
     padding: 0 15px 0 15px;
   }
   .recent-posts .recent-post-item {
-    border-radius: 15px;
+/* border-radius 15px */
+    border-radius: 32px;
     overflow: hidden;
   }
 }
