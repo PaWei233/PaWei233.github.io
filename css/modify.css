@@ -62,3 +62,7 @@
 
   [data-theme='dark'] &
     background-color: alpha(#000, .5) */
+.footer_custom_text {
+  font-size: 1.3em;
+  font-weight: bold;
+}
